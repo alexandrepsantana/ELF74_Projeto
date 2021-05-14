@@ -1,0 +1,11 @@
+Mudanças nos seguintes #defines do RTX_Config.h:
+
+ #define                    Novo valor
+ -------------------------  -----------
+ OS_DYNAMIC_MEM_SIZE        133120
+
+ OS_THREAD_NUM              5
+ OS_THREAD_DEF_STACK_NUM    5
+
+ OS_STACK_SIZE              10240
+ OS_IDLE_THREAD_STACK_SIZE  1024

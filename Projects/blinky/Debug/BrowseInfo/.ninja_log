@@ -1,0 +1,26 @@
+# ninja log v5
+22	378	6426848410000000	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/driverleds.xcl	87be7e06af8ed91d
+27	394	6426848410000000	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/rtx_lib.xcl	21b899e46dfe5c34
+1	407	6426848410000000	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/RTX_Config.xcl	8f1610215387562b
+15	441	6426848410000000	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.xcl	5bd0f3a76bb54551
+384	571	6426848419765049	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/driverleds.pbi	b71d0813c790d619
+400	610	6426848420144034	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/rtx_lib.pbi	2da2ca8ea6e78b57
+451	624	6426848420293634	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbi	49f434e1267965d8
+413	647	6426848420513072	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/RTX_Config.pbi	67ed6d02fae63a3
+626	806	6426848422118754	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky_part0.pbi	16ef72604484148a
+649	823	6426848422278337	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky_part1.pbi	239a5dc5e55d4d66
+574	873	6426848420000000	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.xcl	42227a4489f8b419
+880	1219	6426848426227705	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.pbi	18fdb59a95c57b26
+1222	1354	6426848427594097	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky_part2.pbi	631f83a8bd0f54b1
+1357	1485	6426848428900532	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbd	f25e438c46ab877a
+1488	1554	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+3	107	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+6	111	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	111	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	110	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+2	113	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+2	111	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	114	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	113	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	113	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
+1	109	0	D:/ELF74_Projeto/Projects/blinky/Debug/BrowseInfo/blinky.pbw	965341fdad943028
